@@ -3,7 +3,7 @@ for i in range(n):
     # print L shape
         print("*")
 # print()
-for j in range(n):
+print(" *"*n)
     
-    print("* ",end="")
+
         
